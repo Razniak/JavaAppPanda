@@ -1,2 +1,2 @@
-# JavaAppPanda
-In main directory run mvn clean install -> open new folder target, use command: java -jar panda.. 
+# panda_application
+Sample springboot aplication with using thymeleaf and web spring
