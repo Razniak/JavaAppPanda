@@ -21,7 +21,7 @@ agent {
         stage('Get Code') {
             steps {
                 // Get some code from a GitHub repository
-                git checkout scm
+                checkout scm
             }
         }
         stage('Build and Junit') {
